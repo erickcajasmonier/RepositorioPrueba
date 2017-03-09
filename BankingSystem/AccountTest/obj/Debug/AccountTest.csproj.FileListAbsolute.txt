@@ -1,0 +1,1 @@
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\RepositorioPrueba\BankingSystem\AccountTest\bin\Debug\AccountTest.exe.config
