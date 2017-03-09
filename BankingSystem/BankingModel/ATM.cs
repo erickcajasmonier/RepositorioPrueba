@@ -8,5 +8,6 @@ namespace BankingModel
 {
     class ATM
     {
+
     }
 }

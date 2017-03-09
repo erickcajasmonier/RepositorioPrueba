@@ -2,3 +2,4 @@ C:\Users\Clase\Documents\Visual Studio 2013\Projects\RepositorioPrueba\BankingSy
 C:\Users\Clase\Documents\Visual Studio 2013\Projects\RepositorioPrueba\BankingSystem\BankingModel\bin\Debug\BankingModel.pdb
 C:\Users\Clase\Documents\Visual Studio 2013\Projects\RepositorioPrueba\BankingSystem\BankingModel\obj\Debug\BankingModel.dll
 C:\Users\Clase\Documents\Visual Studio 2013\Projects\RepositorioPrueba\BankingSystem\BankingModel\obj\Debug\BankingModel.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\RepositorioPrueba\BankingSystem\BankingModel\obj\Debug\BankingModel.csprojResolveAssemblyReference.cache
